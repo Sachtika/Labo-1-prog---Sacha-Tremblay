@@ -1363,8 +1363,8 @@ namespace Miscreated_2._1
                     Console.WriteLine("*(1) Water bottle");
                     Console.WriteLine();
                     Console.WriteLine("Make a choice:");
-                    Console.WriteLine("-Get closer the control tower");
-                    Console.WriteLine("-Loot the military hangars");
+                    Console.WriteLine("-Get closer the control tower (1)");
+                    Console.WriteLine("-Loot the military hangars (2)");
 
                     choix = Convert.ToString(Console.ReadLine());
                     //Niveau 3.3.1
